@@ -41,6 +41,8 @@ Install the required packages:
 
 pip install -r requirements.txt
 Usage
+
+
 Preprocess the Data: Run the preprocessing script to clean and prepare the email dataset.
 python preprocess.py
 Train the Model: Train the machine learning model using the preprocessed data.
