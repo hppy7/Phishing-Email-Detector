@@ -1,7 +1,7 @@
 
 # Phishing Email Detector
 
-The Phishing Email Detector is a machine learning project that utilizes Natural Language Processing (NLP) techniques to identify and classify phishing emails. The goal of this project is to help users recognize potentially harmful emails and protect themselves from phishing attacks. <br> Author Sundhir Singh
+The Phishing Email Detector is a machine learning project that utilizes Natural Language Processing (NLP) techniques to identify and classify phishing emails. The goal of this project is to help users recognize potentially harmful emails and protect themselves from phishing attacks. <br>  Sundhir Singh
 
 ---
 
