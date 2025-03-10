@@ -33,7 +33,7 @@ def predict_email(model_file, vectorizer_file, email_text):
 
 if __name__ == "__main__":
     print("Welcome to the Phishing Email Detection Program!")
-    email_text = input("Enter the email text to analyze: ")
+    email_text = input("Enter  the email text to analyze: ")
 
     # Dynamic paths
     model_file = os.path.join("models", "phishing_detector.pkl")
